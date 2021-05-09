@@ -1,4 +1,3 @@
-# Module_Challenge_18
  Blockchain with Python (PyChain,Streamlit)
 
 This python file is a sample blockchain model using PyChain and Streamlit. Original file provided by UCBe, modified per instruction. 
